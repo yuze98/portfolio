@@ -757,7 +757,7 @@ export default function App() {
 
       {/* NAV */}
       <nav>
-        <div className="nav-logo">YS_PORTFOLIO</div>
+        <div className="nav-logo">YH_PORTFOLIO</div>
         <div className="nav-links">
           <a href="#about">About</a>
           <a href="#experience">Experience</a>
@@ -778,7 +778,7 @@ export default function App() {
             Cairo University · Faculty of Engineering
           </div>
           <h1 className="hero-name fade-up delay-1">
-            Youssef<span>Sayed.</span>
+            Youssef <span>El Dorghamy</span>
           </h1>
           <p className="hero-title fade-up delay-2">
             <em>&gt;</em> {typed}
@@ -813,7 +813,7 @@ export default function App() {
         {/* Photo placeholder */}
         <div className="hero-photo fade-up delay-5">
           <div className="hero-photo-inner">
-            {/* Replace the content below with your photo: <img src="your-photo.jpg" alt="Youssef Sayed" /> */}
+            {/* Replace the content below with your photo: <img src="your-photo.jpg" alt="Youssef El Dorghamy" /> */}
             <div className="photo-icon">👤</div>
             <div className="photo-label">
               ← ADD YOUR PHOTO HERE
@@ -1467,7 +1467,7 @@ Constraint: Never guess — flag unknowns
               .
             </div>
             <a
-              href="https://linktr.ee/youssefsayed"
+              href="https://linktr.ee/youssefEl Dorghamy"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-primary"
@@ -1547,7 +1547,7 @@ Constraint: Never guess — flag unknowns
             </a>
 
             <a
-              href="https://linktr.ee/youssefsayed"
+              href="https://linktr.ee/youssefEl Dorghamy"
               target="_blank"
               rel="noopener noreferrer"
               className="contact-link"
@@ -1557,7 +1557,9 @@ Constraint: Never guess — flag unknowns
                 <div className="contact-link-label">
                   Linktree · Music · Socials
                 </div>
-                <div className="contact-link-value">linktr.ee/youssefsayed</div>
+                <div className="contact-link-value">
+                  linktr.ee/youssefEl Dorghamy
+                </div>
               </div>
             </a>
 
@@ -1579,7 +1581,9 @@ Constraint: Never guess — flag unknowns
 
       {/* FOOTER */}
       <footer>
-        <div className="footer-copy">© 2026 Youssef Sayed · Cairo, Egypt</div>
+        <div className="footer-copy">
+          © 2026 Youssef El Dorghamy · Cairo, Egypt
+        </div>
         <div className="footer-made">
           Built with <span>React</span> · Designed with intent
         </div>
